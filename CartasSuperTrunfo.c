@@ -13,7 +13,7 @@ int main() {
 
     // Entrada de dados para a primeira carta
     printf("Informe os dados da Carta 1:\n");
-    printf("Estado (letra de 'A' a 'H'): ");
+    printf("Estado: ");
     scanf(" %c", &estado1);
     printf("Código da Carta (ex: A01): ");
     scanf("%s", codigo1);
